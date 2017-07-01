@@ -31,4 +31,29 @@
 - [X] 21. 网络编程+异步IO
 - [X] 22. 模块+常见内置模块
 - [X] 23\~26. 重要模块(numpy/scipy/matplotlib/pandas)
-- [X] 27\~30. 算法python实现
+- [ ] 27\~30. 算法python实现
+
+
+## 7月：机器学习
+
+#### 参考书：
+* 李航<统计学习方法>
+* Michael Bowles et al.<Python机器学习-预测分析核心算法>
+
+#### 机器学习算法python实现
+* An example machine learning notebook（http://t.cn/RcYbWS1）
+* sklearn tutorial (https://github.com/jakevdp/sklearn_tutorial)
+* <统计学习方法>python实现 (https://github.com/WenDesi/lihang_book_algorithm)
+
+
+- [ ] 1. 梯度下降法+牛顿法（拟牛顿法）
+- [ ] 2\~4. 感知机
+- [ ] 5\~7. 近邻算法
+- [ ] 8\~10. 朴素贝叶斯算法
+- [ ] 11\~13. 决策树
+- [ ] 14\~16. 逻辑斯蒂回归+最大熵算法
+- [ ] 17\~19. 支持向量机
+- [ ] 20\~22. 提升(boosting)方法
+- [ ] 23\~25. EM方法
+- [ ] 26\~28. 隐马尔科夫模型(HMM)+高斯混合模型(GMM)
+- [ ] 29\~31. 条件随机场
