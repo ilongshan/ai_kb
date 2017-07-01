@@ -43,6 +43,7 @@
 #### 参考书：
 * 李航<统计学习方法>
 * Michael Bowles et al.<Python机器学习-预测分析核心算法>
+* 张贤达<矩阵分析与应用>
 
 #### 机器学习算法python实现
 * An example machine learning notebook（http://t.cn/RcYbWS1）
