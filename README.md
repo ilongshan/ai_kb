@@ -33,6 +33,10 @@
 - [X] 23\~26. 重要模块(numpy/scipy/matplotlib/pandas)
 - [ ] 27\~30. 算法python实现
 
+> - python基础知识重要的部分会放在[Issues/python · ilongshan/ilongshan.github.io](https://github.com/ilongshan/ilongshan.github.io/issues?q=is%3Aopen+is%3Aissue+label%3Apython)。  
+> - 算法部分需要加强  
+> - 几个重要模块，pandas没有看，其他的模块还要在后面熟练使用。  
+> - matplotlib相关的使用会放在[Issues/matplotlib · ilongshan/ilongshan.github.io](https://github.com/ilongshan/ilongshan.github.io/issues?q=is%3Aopen+is%3Aissue+label%3Amatplotlib)。
 
 ## 7月：机器学习
 
